@@ -9,7 +9,7 @@
 }
 .image {
     filter: contrast(0.7);
-    max-height: 600px;
+    max-height: 520px;
 }
 .carousel {
     cursor: pointer;
